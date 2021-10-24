@@ -1,5 +1,5 @@
-<h1 align="center"> beCliente-web </h1>
-<p align="center"> Este projeto deverá rodar juntamente com o projeto beCliente-api </p>
+<h1 align="center"> zindex-dashboard-web </h1>
+<p align="center"> Este projeto deverá rodar juntamente com o projeto zindex-dashboard-api </p>
 
 ### Pré-requisitos
 
@@ -7,14 +7,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o beCliente-web
+### 🎲 Rodando o zindex-dashboard-web
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/fabriciobatalha/beCliente-web.git>
+$ git clone <https://github.com/fabriciobatalha/zindex-dashboard-web.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd beCliente-web
+$ cd zindex-dashboard-web
 
 # Instale as dependências
 $ npm install
